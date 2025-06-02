@@ -1,0 +1,40 @@
+# A/R Particle Framework Summary
+
+This document provides a concise summary of the A/R particle framework in Ashebo's Emergent Gravity Theory.
+
+## Key Concepts
+
+### A Particles (Asymmetry)
+- Hydrogen-sized particles flowing inward toward massive bodies
+- Represent spacetime curvature/asymmetry
+- Initial value: 9.15×10⁻⁹ for Earth-like conditions
+- Maximum value: 9.15×10⁻⁶ for Sun-like conditions
+
+### R Particles (Restoration)
+- Smaller than hydrogen, flowing outward from massive bodies
+- Represent symmetry restoration
+- Initial value: 7.29×10⁻³ for Earth-like conditions
+- Maximum value: 7.29×10⁰ for Sun-like conditions
+
+## Interaction Effects
+
+1. **Gravitational Effect**
+   - Product A×R determines gravitational strength
+   - Earth-like conditions: A×R = 6.7×10⁻¹¹
+   - Sun-like conditions: A×R = 1.255×10⁻⁶
+
+2. **Fusion Process**
+   - Core fusion limited by Pauli exclusion principle
+   - Fusion intensity increases with R value
+   - Transitions from reddish (Earth-like) to yellow (Sun-like)
+
+3. **Mass Accumulation**
+   - Initially increases with higher R values
+   - Eventually decreases as fusion overtakes accumulation
+   - Sun has 333,000× Earth's mass at maximum values
+
+4. **Gravity Scaling**
+   - Increases with A value
+   - Sun has 28× Earth's surface gravity at maximum values
+
+For detailed mathematical formalism, please refer to the full manuscript.

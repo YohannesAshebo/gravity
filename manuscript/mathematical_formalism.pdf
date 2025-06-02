@@ -1,0 +1,46 @@
+/* Mathematical formalism of Ashebo's Emergent Gravity Theory */
+
+# Mathematical Interpretation of A/R Particle Framework
+
+This document provides a mathematical summary of the key equations in Ashebo's Emergent Gravity Theory, focusing on the A/R particle framework.
+
+## Core Equations
+
+The effective gravitational parameter is given by:
+
+G_eff = G₀·A·R
+
+Where:
+- G₀ is the base gravitational constant
+- A represents baryon asymmetry (9.15×10⁻⁹ for Earth-like conditions)
+- R represents symmetry restoration (7.29×10⁻³ for Earth-like conditions)
+
+## Field Equations
+
+The dynamical fields for A and R particles follow:
+
+∇²A - ∂²A/∂t² = ρₘ
+∇²R - ∂²R/∂t² = -ρₑ
+
+Where:
+- ρₘ represents mass density
+- ρₑ represents energy density
+
+## Fusion Core Dynamics
+
+The fusion rate in celestial bodies is proportional to:
+
+F ∝ R³·A
+
+This explains the transition from Earth-like to Sun-like conditions as R increases from 7.29×10⁻³ to 7.29×10⁰.
+
+## Mass-Energy Relationship
+
+The relationship between mass (M) and energy (E) in this framework:
+
+M = M₀(1 + k·A·R)
+E = E₀(1 + j·A·R)
+
+Where k and j are coupling constants.
+
+For detailed derivations and proofs, please refer to the full manuscript.
